@@ -100,7 +100,7 @@ ggplot(data= allsp_forplot_noFeb29) +
                              "Minke" ="#F94144" ,
                              "Sperm" ="#0f4c5c" , 
                              "Harbour Porpoise" ="#7209B7", 
-                             "Delphinid spp." = "#00afb9"), 
+                             "Delphinid spp." = "coral"), 
                     name="Species",
                     breaks=c("Harbour Porpoise","Delphinid spp.","Sperm", "Humpback","Minke", "NARW", "Sei", "Fin", "Blue"))
 
